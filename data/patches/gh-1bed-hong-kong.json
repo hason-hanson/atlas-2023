@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Hong Kong ",
+	"description": "Depicts symbols of the protests in Hong Kong. A bloody bauhinia, and a yellow umbrella.",
+	"links": {
+		"subreddit": [
+			"HongKong"
+		]
+	},
+	"path": {
+		"121": [
+			[
+				-456,
+				-549
+			],
+			[
+				-456,
+				-549
+			],
+			[
+				-456,
+				-549
+			],
+			[
+				-436,
+				-549
+			],
+			[
+				-436,
+				-531
+			],
+			[
+				-456,
+				-531
+			]
+		]
+	},
+	"center": {
+		"121": [
+			-446,
+			-540
+		]
+	}
+}
